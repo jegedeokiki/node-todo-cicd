@@ -4,4 +4,4 @@ services:
   web:
     image: "jegedeokiki/image"
     ports:
-      - "8001:8000"
+      - "8009:8000"
